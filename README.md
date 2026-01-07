@@ -19,7 +19,7 @@ It allows users to create, edit, list, and save notes directly from the terminal
 
 Prototype screenshot of Totion running in the terminal:
 
-![Totion Screenshot](ss.png)
+![Totion Screenshot](Screenshot/ss.png)
 
 
 
